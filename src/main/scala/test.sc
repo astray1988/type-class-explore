@@ -9,5 +9,5 @@ val languageWordCounts = Map(
   ("chinese", "zaijian") -> 2
 )
 
-val s = languageWordCounts.flatMap(pair => Map(pair. -> pair._2))
-println(s)
+//val s = languageWordCounts.flatMap(pair => Map(pair. -> pair._2))
+//println(s)
